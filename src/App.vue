@@ -151,12 +151,12 @@
     cursor: pointer;
   }
   .header-logo {
-    background-image: url('./assets/hk-design-ui-2.png');
+    background-image: url('./assets/min-logo.png');
     background-size: 100% 100%;
-    width: 200px;
+    width: 185px;
     height: 38px;
     float: left;
-    margin: 5px 20px 5px 0;
+    margin: 5px 20px 5px 14px;
   }
   .main- {
     height: calc(100% - 51px);
