@@ -1,7 +1,7 @@
 <!-- Created by WANGHONGKANG on 2021/6/27. -->
-# HK UI
+# Hk Design UI
 
-HK UI是一个vue3的组件库，基于 Vue3 + Typescript + Vite + pnpm。
+Hk Design UI是一个vue3的组件库，基于 Vue3 + Typescript + Vite + pnpm。
 
 常用基础组件，代码简洁，满足常见项目，组件类名可自定义，不依懒第三方库，全程无红线语法报错，便于二次开发，无缝衔接项目
 

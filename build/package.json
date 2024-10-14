@@ -1,7 +1,7 @@
 {
   "name": "hk-design-ui",
   "version": "1.0.0",
-  "description": "HK UI是一个vue3的组件库，基于 Vue3 + Typescript + Vite + pnpm",
+  "description": "HK Design UI是一个vue3的组件库，基于 Vue3 + Typescript + Vite + pnpm",
   "license": "MIT",
   "author": "WANGHONGKANG",
   "keywords": [
