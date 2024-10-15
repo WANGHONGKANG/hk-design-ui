@@ -1,6 +1,6 @@
 # hk-design-ui
 
-Vue3 + Typescript + Vite，用于学习研究，欢迎交流
+Vue3 + Typescript + Vite + pnpm，用于学习研究，欢迎交流
 
 **特点**
 
@@ -11,10 +11,6 @@ Vue3 + Typescript + Vite，用于学习研究，欢迎交流
 ## 演示地址 Demo
 
 https://WANGHONGKANG.github.io/hk-design-ui/
-
-## 微信交流群
-
-<img src="https://gitee.com/qWANGHONGKANG/vue-form-design/raw/main/qrcode.jpg" width ="200" alt=""/>
 
 ## 安装使用
 
@@ -40,18 +36,6 @@ app.use(HkDesignUI)
 import HKUI from './packages'
 app.use(HKUI)
 ```
-
-## vue2 版本
-
-<font color="#f00">vue2.x 版本的请点击这里进去</font>
-
-https://github.com/WANGHONGKANG/Vue-UI-for-PC
-
-https://gitee.com/qWANGHONGKANG/hk-design-ui
-
-## react 版本
-
-https://github.com/WANGHONGKANG/vite-react
 
 ## 组件 UI 库说明
 
