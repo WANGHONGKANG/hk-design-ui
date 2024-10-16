@@ -19,8 +19,8 @@ pnpm install hk-design-ui
 ```ts
 // main.ts
 import HkDesignUI from 'hk-design-ui'
-import 'hk-design-ui/style.css'  //　引入组件样式
-import 'hk-design-ui/iconfont.css'　//　引入iconfont图标样式
+import 'hk-design-ui/build/dist/style.css'  //　引入组件样式
+import 'hk-design-ui/build/iconfont/iconfont.css'　//　引入iconfont图标样式
 app.use(HkDesignUI)
 ```
 

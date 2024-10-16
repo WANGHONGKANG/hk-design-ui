@@ -1,9 +1,16 @@
 {
   "name": "hk-design-ui",
-  "private": true,
-  "version": "1.0.3",
-  "repository": "git@github.com:WANGHONGKANG/hk-design-ui.git",
-  "author": "WANGHONGKANG <WANGHONGKANG@qq.com>",
+  "private": false,
+  "version": "1.0.4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WANGHONGKANG/hk-design-ui.git"
+  },
+  "author": "WANGHONGKANG <874311449@qq.com>",
+  "main": "build/dist/index.js",
+  "files": [
+    "build/*"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
