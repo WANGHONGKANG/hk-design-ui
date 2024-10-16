@@ -1,7 +1,8 @@
 {
   "name": "hk-design-ui",
   "private": false,
-  "version": "1.0.4",
+  "version": "1.0.6",
+  "types": "build/dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WANGHONGKANG/hk-design-ui.git"
